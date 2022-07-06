@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:paddingTop="?attr/actionBarSize"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/margin_normal"
+            app:cardCornerRadius="@dimen/margin_normal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="1dp"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        style="@style/NormalTextView"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="@dimen/margin_small"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/vaccinated" />
+
+                    <TextView
+                        android:id="@+id/tvTimelyVaccinated"
+                        style="@style/NormalTextView"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="@dimen/margin_small"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/timely_vaccinated"
+                        android:visibility="invisible" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/margin_small"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/NormalTextView"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="@dimen/margin_small"
+                        android:layout_weight="1"
+                        android:gravity="center|left"
+                        android:text="@string/hepb" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+                        <ToggleButton
+                            android:id="@+id/tbhepbVaccinated"
+                            android:layout_width="@dimen/toggle_btn_width"
+                            android:layout_height="@dimen/toggle_btn_height"
+                            android:layout_marginRight="5dp"
+                            android:background="@drawable/yes_no_selector"
+                            android:textOff=""
+                            android:textOn="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/llhepb"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:visibility="gone">
+
+                        <ToggleButton
+                            android:id="@+id/tbhepbTimelyVaccinated"
+                            android:layout_width="@dimen/toggle_btn_width"
+                            android:layout_height="@dimen/toggle_btn_height"
+                            android:layout_marginRight="5dp"
+                            android:background="@drawable/yes_no_selector"
+                            android:textOff=""
+                            android:textOn="" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginBottom="2dp"
+                    android:visibility="gone"
+                    android:background="@drawable/background"
+                    android:orientation="vertical">
+
+                    <com.mikhaellopez.lazydatepicker.LazyDatePicker
+                        android:id="@+id/HepbvacinationDatePicker"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="@dimen/_10sdp"
+                        android:visibility="visible"
+                        app:ldp_date_format="dd-mm-yyyy"
+                        app:ldp_hint_color="@color/colorAccent"
+                        app:ldp_text_color="@color/grey" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="visible"
+                    android:orientation="vertical">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_margin="@dimen/margin_small"
+                        android:gravity="center">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/ethepbVaccinationDate"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:clickable="true"
+                            android:visibility="gone"
+                            android:drawableEnd="@android:drawable/arrow_down_float"
+                            android:drawableRight="@android:drawable/arrow_down_float"
+                            android:focusable="false"
+                            android:hint="@string/date_of_vaccination" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/margin_small"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/NormalTextView"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="@dimen/margin_small"
+                        android:layout_weight="1"
+                        android:gravity="center|left"
+                        android:text="@string/opv_0" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+                        <ToggleButton
+                            android:id="@+id/tbOPVVaccinated"
+                            android:layout_width="@dimen/toggle_btn_width"
+                            android:layout_height="@dimen/toggle_btn_height"
+                            android:layout_marginRight="5dp"
+                            android:background="@drawable/yes_no_selector"
+                            android:textOff=""
+                            android:textOn="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/llOPV0"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:visibility="gone">
+
+                        <ToggleButton
+                            android:id="@+id/tbOPVTimelyVaccinated"
+                            android:layout_width="@dimen/toggle_btn_width"
+                            android:layout_height="@dimen/toggle_btn_height"
+                            android:layout_marginRight="5dp"
+                            android:background="@drawable/yes_no_selector"
+                            android:textOff=""
+                            android:textOn="" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginBottom="2dp"
+                    android:visibility="gone"
+                    android:background="@drawable/background"
+                    android:orientation="vertical">
+
+                    <com.mikhaellopez.lazydatepicker.LazyDatePicker
+                        android:id="@+id/vacinationDatePicker"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="@dimen/_10sdp"
+                        android:visibility="visible"
+                        app:ldp_date_format="dd-mm-yyyy"
+                        app:ldp_hint_color="@color/colorAccent"
+                        app:ldp_text_color="@color/grey" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="visible"
+                    android:orientation="vertical">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_margin="@dimen/margin_small"
+                        android:gravity="center">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/etOpv0VaccinationDate"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:clickable="true"
+                            android:visibility="gone"
+                            android:drawableEnd="@android:drawable/arrow_down_float"
+                            android:drawableRight="@android:drawable/arrow_down_float"
+                            android:focusable="false"
+                            android:hint="@string/date_of_vaccination" />
+                    </com.google.android.material.textfield.TextInputLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/margin_small"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/NormalTextView"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="@dimen/margin_small"
+                        android:layout_weight="1"
+                        android:gravity="center|left"
+                        android:text="@string/bcg" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+                        <ToggleButton
+                            android:id="@+id/tbBCGVaccinated"
+                            android:layout_width="@dimen/toggle_btn_width"
+                            android:layout_height="@dimen/toggle_btn_height"
+                            android:layout_marginRight="5dp"
+                            android:background="@drawable/yes_no_selector"
+                            android:textOff=""
+                            android:textOn="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+
+                        android:id="@+id/llBCG"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:visibility="gone">
+
+                        <ToggleButton
+                            android:id="@+id/tbBCGTimelyVaccinated"
+                            android:layout_width="@dimen/toggle_btn_width"
+                            android:layout_height="@dimen/toggle_btn_height"
+                            android:layout_marginRight="5dp"
+                            android:background="@drawable/yes_no_selector"
+                            android:textOff=""
+                            android:textOn="" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="@dimen/margin_small"
+                    android:visibility="visible"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+
+                    android:gravity="center">
+
+                    <com.google.android.material.textfield.TextInputEditText
+
+                        android:id="@+id/etBCGVaccinationDate"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+
+                        android:drawableEnd="@android:drawable/arrow_down_float"
+                        android:drawableRight="@android:drawable/arrow_down_float"
+                        android:focusable="false"
+                        android:hint="@string/date_of_vaccination" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginBottom="2dp"
+                    android:visibility="gone"
+                    android:background="@drawable/background"
+                    android:orientation="vertical">
+
+                    <com.mikhaellopez.lazydatepicker.LazyDatePicker
+                        android:id="@+id/BCGvacinationDatePicker"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="@dimen/_10sdp"
+                        android:visibility="visible"
+                        app:ldp_date_format="dd-mm-yyyy"
+                        app:ldp_hint_color="@color/colorAccent"
+                        app:ldp_text_color="@color/grey" />
+                </LinearLayout>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="@dimen/margin_small"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+
+                    android:gravity="center">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@id/etRemarks"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+
+                        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_-,. "
+                        android:gravity="top"
+                        android:hint="@string/remarks"
+                        android:inputType="text"
+                        android:lines="5"
+                        android:maxLines="5" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <Button
+                    android:id="@id/btnSubmit"
+                    style="@style/ButtonStyle"
+                    android:layout_width="@dimen/button_width_1"
+                    android:layout_height="@dimen/margin_xxxxlarge1"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="@dimen/margin_xsmall"
+                    android:layout_marginLeft="@dimen/margin_large"
+                    android:layout_marginRight="@dimen/margin_large"
+                    android:layout_marginTop="@dimen/margin_xsmall"
+                    android:background="@drawable/round_corner_bg_green"
+
+                    android:gravity="center"
+                    android:text="@string/submit"
+                    android:textColor="@color/color_white" />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

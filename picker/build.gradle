@@ -1,0 +1,19 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "19.0.1"
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+    }
+
+}
+
+dependencies {
+    implemantation 'com.android.support:support-v13:+'
+    implemantation 'com.android.support:support-v13:27.0.1'
+}

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\2c9be4b1da5d3d68506c1da54303e4d3\\jetified-multiple-images-selector-1.1.5\\res\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,187,253,312,371,470,523,618",
+                        "endColumns": "67,63,65,58,58,98,52,94,53",
+                        "endOffsets": "118,182,248,307,366,465,518,613,667"
+                    }
+                }
+            ]
+        }
+    ]
+}

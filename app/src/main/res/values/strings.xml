@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Synergy Evaluation System</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_test">Test</string>
+
+    <string name="action_search">Search</string>
+
+    <string name="nav_home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="lbl_select_all">Select All</string>
+    <string name="lbl_update">Update</string>
+    <string name="lbl_task_cancelled">Task Cancelled</string>
+    <string name="toast_time_out">Error Time Out</string>
+    <string name="select_file">Select File</string>
+    <string name="choosePicture">Choose Picture</string>
+    <string name="chooseFromGallery">Choose From Gallery</string>
+    <string name="takeFromCamera">Take Picture From Camera</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="please_select_option">Please select option</string>
+    <string name="lbl_unselect_all">Unselect all</string>
+    <string name="cluster_1">Cluster 1</string>
+    <string name="cluster_2">Cluster 2</string>
+    <string name="cluster_3">Cluster 3</string>
+    <string name="district">District</string>
+    <string name="tehsil_town">Tehsil/Town</string>
+    <string name="uc">UC</string>
+    <string name="area">Area</string>
+    <string name="sia_team_no">SIAs Team No</string>
+    <string name="select_day">Select Day</string>
+    <string name="demo_info">Demographic Information</string>
+    <string name="next">Next</string>
+    <string name="sia_door_marking">SIAs Door Marking</string>
+    <string name="add_child">Add Child</string>
+    <string name="enter_house_no">Enter house #</string>
+    <string name="no_of_children_less_than_2_year">No of children less than 2 years</string>
+    <string name="_06_to_23_months">06 to 23 months</string>
+    <string name="age_matched_vaccinated_children">Age matched vaccinated children</string>
+    <string name="partially_vaccinated_children">Partially vaccinated children</string>
+    <string name="un_vaccinated_children">Un vaccinated children</string>
+    <string name="name">Name</string>
+    <string name="father_name">Father Name</string>
+    <string name="age">Age</string>
+    <string name="enter_contact_no">Phone Number</string>
+    <string name="vaccinated">Vaccinated</string>
+    <string name="card_available">Card Available</string>
+    <string name="card_no">Card No</string>
+    <string name="image">Please attach card images</string>
+    <string name="val">please enter atleast one antigen</string>
+    <string name="zero_to_forty_weeks">HEP-B/OPV-O/BCG</string>
+    <string name="six_to_ten_weeks">PENTA-1/PCV-1/OPV-1/ROTA-1</string>
+    <string name="ten_to_forteen_weeks">PENTA-2/PCV-2/OPV-2/ROTA-2</string>
+    <string name="forteen_to_eighteen_weeks">PENTA-3/PCV-3/OPV-3/IPV-1</string>
+    <string name="nine_to_ten_months">MCV-1/IPV-2/TCV</string>
+    <string name="fifiteen_to_sisteen_months">MCV-2</string>
+    <string name="twenty_four_months">24 Months</string>
+    <string name="remarks">Remarks</string>
+    <string name="opv_0">OPV-0</string>
+    <string name="hepb">HEP-B</string>
+    <string name="bcg">BCG</string>
+    <string name="timely_vaccinated">Timely Vaccinated</string>
+    <string name="date_of_vaccination">Date of Vaccination</string>
+    <string name="penta_i">Penta-1</string>
+    <string name="penta">Penta-3</string>
+    <string name="pcv_10_1">PCV–1</string>
+    <string name="pcv_10">PCV–3</string>
+    <string name="opv_1">OPV-1</string>
+    <string name="opv">OPV-3</string>
+    <string name="rota_1">Rota-1</string>
+    <string name="rota">Rota-2</string>
+    <string name="ipv">IPV-1</string>
+    <string name="measles_1">Measles-1/IPV-2/TCV</string>
+    <string name="measles_2">Measles-2</string>
+    <string name="count">0</string>
+    <string name="please_select_days">Please select day</string>
+    <string name="home">Home</string>
+    <string name="select_district">Select District</string>
+    <string name="select_tehsil_town">Select Tehsil/Town</string>
+    <string name="select_uc">Select UC</string>
+    <string name="house_info">House Info</string>
+    <string name="dob_les_than_tomorrow">Date should be less than today</string>
+    <string name="dob_les_than_tomorrow1">Should be greater than or equal to Date of birth</string>
+    <string name="submit">Submit</string>
+    <string name="no_internet_connect">No Internet connection</string>
+    <string name="child_name">Child Name</string>
+    <string name="house_tagged_successfully">House tagged successfully</string>
+    <string name="are_you_sure_you_want_to_submit_cluster_info">Are you sure you want to submit cluster info</string>
+    <string name="synergy_evaluation_system">Synergy Evaluation System</string>
+    <string name="synergy_evaluation_system_1">Synergy\n Evaluation System</string>
+    <string name="please_enter_area">Please enter area</string>
+    <string name="please_enter_team_no">Please enter team no</string>
+    <string name="please_enter_house_no">Please enter area name</string>
+    <string name="plese_enter_name">Please enter name</string>
+    <string name="please_enter_father_name">Please enter father name</string>
+    <string name="sr_no">Sr No.</string>
+    <string name="record_inserted_successfully">Record saved successfully on mobile</string>
+    <string name="enter_date_of_vaccination">Please enter date of vaccination</string>
+    <string name="app_version">App version :</string>
+    <string name="project_not_found">Project not found</string>
+    <string name="param_missing">Params missing</string>
+    <string name="update_from_playstore">Please update from Playstore</string>
+    <string name="check_location">Please check your location</string>
+    <string name="thank_you">Thank You for performing this activity</string>
+    <string name="true_">true</string>
+    <string name="province">Province</string>
+    <string name="division">Division</string>
+    <string name="provisional_type_user_id">6</string>
+    <string name="district_type_user_id">1009</string>
+    <string name="divisional_type_user_id">1008</string>
+    <string name="please_assign_role_to_proceed">Please assign role to proceed</string>
+    <string name="selet_division">Select Division</string>
+    <string name="false_">false</string>
+    <string name="done">Done</string>
+    <string name="current">Current</string>
+    <string name="not_done">Not Done</string>
+    <string name="please_enteR_division">Please enter division</string>
+    <string name="please_enter_district">Please enter district</string>
+    <string name="please_enter_town">Please enter town</string>
+    <string name="please_enter_age">Please enter age</string>
+    <string name="please_enter_Phone_no">Please enter Phone No</string>
+    <string name="unalble_to_add_more_child_in_this_cluster">Unable to add more child in this cluster.</string>
+    <string name="please_set_your_date_and_time">Please set your date, time and timezone to automatic</string>
+    <string name="hello">Hello</string>
+    <string name="house_no">House No</string>
+    <string name="permission_request_message">Storage permission allows us to save pdf.</string>
+    <string-array name="select_days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+
+</resources>

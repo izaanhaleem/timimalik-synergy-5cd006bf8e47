@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAFAFA"
+    android:clickable="true"
+    android:focusableInTouchMode="true"
+    android:paddingTop="?attr/actionBarSize"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/SidLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:visibility="visible">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text=" پولیو مہم کو منتخب کریں۔"
+            android:textColor="@color/colorPD"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/sid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:background="@drawable/background"
+            android:ems="10"
+
+            android:padding="0dp"
+            android:spinnerMode="dialog"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2">
+        <LinearLayout
+            android:id="@+id/layout_campaign_month"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5dp"
+            android:visibility="visible">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="مہم کا مہینہ"
+                android:textColor="@color/colorPD"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/compaing_month"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:background="@drawable/background"
+                android:ems="10"
+                android:padding="0dp"
+                android:spinnerMode="dialog"
+                android:visibility="visible" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_campaign_year"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5dp"
+            android:visibility="visible">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="مہم کا سال"
+                android:textColor="@color/colorPD"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/compaing_year"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:background="@drawable/background"
+                android:ems="10"
+                android:padding="0dp"
+                android:spinnerMode="dialog"
+                android:visibility="visible" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+
+        android:background="@drawable/bg_button"
+        android:text="بچوں کی فہرست حاصل کریں" />
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/childlist_recycler"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

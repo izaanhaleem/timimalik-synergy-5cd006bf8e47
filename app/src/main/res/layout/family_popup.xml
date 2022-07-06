@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:background="@drawable/bg"
+            android:focusableInTouchMode="true"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusableInTouchMode="true"
+                android:orientation="vertical"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/CardNumber"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890"
+                        android:hint="Card Number"
+                        android:imeOptions="actionDone"
+                        android:inputType="text"
+                        android:maxLength="10"
+                        android:singleLine="true" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="2dp"
+                        android:layout_weight="1">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/ChildName"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ "
+                            android:hint="Child Name"
+                            android:imeOptions="actionDone"
+                            android:inputType="textCapWords"
+                            android:maxLength="40"
+                            android:singleLine="true" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:id="@+id/dob"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="3dp"
+                        android:layout_weight=".8"
+                        android:gravity="center_vertical"
+                        android:text="Date of birth"
+                        android:textSize="18sp"
+                        android:textStyle="bold" />
+
+                    <ImageButton
+                        android:id="@+id/BirthDate"
+                        android:layout_width="0dp"
+                        android:layout_height="45dp"
+                        android:layout_weight=".2"
+                        android:background="@drawable/background"
+                        android:backgroundTint="@color/colorP"
+                        android:padding="10dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/calendar"
+                        android:tint="@color/white" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="2dp"
+                        android:layout_weight=".5">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/FatherName"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ "
+                            android:hint="Father Name"
+                            android:imeOptions="actionDone"
+                            android:inputType="textCapWords"
+                            android:maxLength="40"
+                            android:singleLine="true" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="2dp"
+                        android:layout_weight=".5">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/contact"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:digits="1234567890"
+                            android:hint="Contact"
+                            android:imeOptions="actionDone"
+                            android:inputType="number"
+                            android:maxLength="11"
+                            android:singleLine="true" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/background"
+                    android:orientation="vertical"
+                    android:padding="2dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="1st visit at birthday"
+                        android:textColor="@color/colorPD"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="1dp"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:weightSum="1">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/bcg"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="BCG" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/BcgDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/hepbbd"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="Hep-B BD" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/HepBBDDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/opvo"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="OPV-O" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/OPV0Date"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:background="@drawable/background"
+                    android:orientation="vertical"
+                    android:padding="5dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="2nd visit 6 weeks"
+                        android:textColor="@color/colorPD"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="1dp"
+                        android:orientation="vertical"
+                        android:weightSum="1">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/pentaI"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="Penta-I" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/PentaIDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/pcv10I"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="PCV-I" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/PCV10IDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/opvI"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="OPV-I" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/OPVIDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/rotaI"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="Rota-I" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/RotaIDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:background="@drawable/background"
+                    android:orientation="vertical"
+                    android:padding="5dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="3rd visit 10 weeks"
+                        android:textColor="@color/colorPD"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="1dp"
+                        android:orientation="vertical"
+                        android:weightSum="1">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/pentaII"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="Penta-II" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/PentaIIDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/pcv10II"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="PCV-II" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/PCV10IIDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/opvII"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="OPV-II" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/OPVIIDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/rotaII"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="Rota-II" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/RotaIIDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:background="@drawable/background"
+                    android:orientation="vertical"
+                    android:padding="5dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="4th Visit 14 weeks"
+                        android:textColor="@color/colorPD"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="1dp"
+                        android:orientation="vertical"
+                        android:weightSum="1">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/pentaIII"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="Penta-III" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/PentaIIIDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/pcv10III"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="PCV-III" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/PCV10IIIDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/opvIII"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="OPV-III" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/OPVIIIDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="2dp">
+
+                            <CheckBox
+                                android:id="@+id/ipv"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight=".8"
+                                android:text="IPV" />
+
+                            <ImageButton
+                                android:visibility="gone"
+                                android:id="@+id/IPVDate"
+                                android:layout_width="0dp"
+                                android:layout_height="35dp"
+                                android:layout_weight=".2"
+                                android:background="@drawable/background"
+                                android:backgroundTint="@color/colorP"
+                                android:padding="7dp"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/calendar"
+                                android:tint="@color/white" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:background="@drawable/background"
+                    android:orientation="vertical"
+                    android:padding="5dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="5th visit 9 months"
+                        android:textColor="@color/colorPD"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="1dp"
+                        android:orientation="horizontal"
+                        android:weightSum="1">
+
+                        <CheckBox
+                            android:id="@+id/measlesI"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".8"
+                            android:text="Measles-I" />
+
+                        <ImageButton
+                            android:visibility="gone"
+                            android:id="@+id/MeaslesIDate"
+                            android:layout_width="0dp"
+                            android:layout_height="35dp"
+                            android:layout_weight=".2"
+                            android:background="@drawable/background"
+                            android:backgroundTint="@color/colorP"
+                            android:padding="7dp"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/calendar"
+                            android:tint="@color/white" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:background="@drawable/background"
+                    android:orientation="vertical"
+                    android:padding="5dp"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="6th visit 15 months"
+                        android:textColor="@color/colorPD"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="1dp"
+                        android:orientation="horizontal"
+                        android:weightSum="1">
+
+                        <CheckBox
+                            android:id="@+id/measlesII"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".8"
+                            android:text="Measles-II" />
+
+                        <ImageButton
+                            android:visibility="gone"
+                            android:id="@+id/MeaslesIIDate"
+                            android:layout_width="0dp"
+                            android:layout_height="35dp"
+                            android:layout_weight=".2"
+                            android:background="@drawable/background"
+                            android:backgroundTint="@color/colorP"
+                            android:padding="7dp"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/calendar"
+                            android:tint="@color/white" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <RadioGroup
+                    android:id="@+id/typegroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:layout_marginBottom="3dp"
+                    android:background="@drawable/background"
+                    android:orientation="vertical"
+                    android:padding="13dp">
+
+                    <RadioButton
+                        android:id="@+id/unvaccinated"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Un-Vaccinated"
+                        android:buttonTint="@color/colorP"
+
+                        android:textSize="16sp" />
+
+                    <RadioButton
+                        android:id="@+id/PartiallyVaccinated"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Partially Vaccinated"
+                        android:buttonTint="@color/colorP"
+
+                        android:textSize="16sp" />
+
+                    <RadioButton
+                        android:id="@+id/UpToDateVaccinated"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Up-To-Date Vaccinated"
+                        android:buttonTint="@color/colorP"
+
+                        android:textSize="16sp" />
+
+                </RadioGroup>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="2dp"
+                        android:layout_weight="1">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/Remarks"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ "
+                            android:hint="Remarks"
+                            android:imeOptions="actionDone"
+                            android:inputType="textCapWords"
+                            android:maxLength="40"
+                            android:singleLine="true" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="15dp"
+                android:weightSum="1">
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/close"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight=".5"
+                    android:background="@drawable/bg_button"
+                    android:padding="2dp"
+                    android:text="Close"
+                    android:textAllCaps="false"
+                    android:textColor="@color/colorPD"
+                    android:textSize="17sp" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/addFamily"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight=".5"
+                    android:background="@drawable/bg_button"
+                    android:padding="2dp"
+                    android:text="Add Child"
+                    android:textAllCaps="false"
+                    android:textColor="@color/colorPD"
+                    android:textSize="17sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

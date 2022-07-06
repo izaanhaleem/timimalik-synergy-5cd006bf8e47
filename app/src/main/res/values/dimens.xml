@@ -1,0 +1,63 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="toolbar_elevation">4dp</dimen>
+
+    <!-- Default Navigation Drawer. -->
+    <dimen name="nav_drawer_width">264dp</dimen>
+    <dimen name="floating_height">650dp</dimen>
+    <dimen name="floating_width">500dp</dimen>
+
+    <!--default and custom Margin for android screen dimension-->
+    <dimen name="margin_xsmall_negative">-8dp</dimen>
+    <dimen name="margin_xxsmall">3dp</dimen>
+    <dimen name="margin_xxxxsmall">1dp</dimen>
+    <dimen name="margin_xsmall">5dp</dimen>
+    <dimen name="margin_xsmall_1_1">6dp</dimen>
+    <dimen name="margin_xsmall_1">7dp</dimen>
+    <dimen name="margin_xxxsmall">2dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_small_1">13dp</dimen>
+    <dimen name="margin_normal">15dp</dimen>
+    <dimen name="margin_xnormal">18dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_xlarge">22dp</dimen>
+    <dimen name="margin_xxlarge">24dp</dimen>
+    <dimen name="margin_xxxlarge">26dp</dimen>
+    <dimen name="margin_xxxxlarge">32dp</dimen>
+    <dimen name="margin_xxxxlarge1">50dp</dimen>
+    <dimen name="margin_xxxxlarge1_2">70dp</dimen>
+    <dimen name="field_width">40dp</dimen>
+    <dimen name="field_width1">300dp</dimen>
+
+    <!-- set Font Sizes-->
+    <dimen name="font_about_title">12sp</dimen>
+    <dimen name="font_xxsmall">10sp</dimen>
+    <dimen name="font_xsmall">12sp</dimen>
+    <dimen name="font_small">14sp</dimen>
+    <dimen name="font_normal">16sp</dimen>
+    <dimen name="font_xnormal">18sp</dimen>
+    <dimen name="font_large">20sp</dimen>
+    <dimen name="font_xlarge">22sp</dimen>
+    <dimen name="font_xxlarge">24sp</dimen>
+    <dimen name="font_xxxlarge">26sp</dimen>
+    <dimen name="font_xxxxlarge">28sp</dimen>
+    <dimen name="font_xxxxxlarge">30sp</dimen>
+    <dimen name="progress_dialog_height_width">120dp</dimen>
+    <dimen name="card_height">300dp</dimen>
+    <dimen name="margin_five">5dp</dimen>
+    <dimen name="card_view_width">350dp</dimen>
+    <dimen name="card_view_width_1">350dp</dimen>
+    <dimen name="button_width">100dp</dimen>
+    <dimen name="navigation_drawer_width">200dp</dimen>
+    <dimen name="dialog_button_height">40dp</dimen>
+    <dimen name="button_width_1">150dp</dimen>
+    <dimen name="toggle_btn_width">50dp</dimen>
+    <dimen name="toggle_btn_height">30dp</dimen>
+
+
+
+    <dimen name="lazy_date_picker_width_case" tools:override="true">24dp</dimen>
+    <dimen name="lazy_date_picker_height_focus" tools:override="true">4.5dp</dimen>
+    <dimen name="lazy_date_picker_width_margin" tools:override="true">2dp</dimen>
+    <dimen name="lazy_date_picker_width_space" tools:override="true">12dp</dimen>
+</resources>

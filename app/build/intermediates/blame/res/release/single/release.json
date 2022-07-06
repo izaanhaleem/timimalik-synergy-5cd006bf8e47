@@ -1,0 +1,882 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_modules_list.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_modules_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_vaccine.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_vaccine.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_nine_to_ten_months_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_nine_to_ten_months_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_contact_us.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\color_menu_icon_color.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\color\\menu_icon_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic__site.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic__site.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_member.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\member.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_round_corner_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\round_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_zero_dose.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\zero_dose.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_contact.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\ic_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg_indicator.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\bg_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_menu_popout_anim.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\menu_popout_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_format_line_style_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable-mdpi\\ic_format_line_style_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_zero_dose_form_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\zero_dose_form_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_cluster_btn_t.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\cluster_btn_t.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_popout_anim.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\popout_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_store_monitoring.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\store_monitoring.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_dashboard_item_bg_selected.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\dashboard_item_bg_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_not_vaccinated.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\not_vaccinated.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\color_menu_text_color.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\color\\menu_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_child_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\child_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_cluster_light.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\cluster_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_left_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_scale_down_out_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\scale_down_out_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_menu_background_color.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\menu_background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_calendar.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic__site.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic__site.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_right_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_vaccine.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_vaccine.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_camera.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_menu_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\menu_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_round_corner_button_blue_1.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\round_corner_button_blue_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_house_info_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_house_info_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_validation.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\ic_validation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_sync.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\sync.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_cluster_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\cluster_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_select_day_t.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\btn_select_day_t.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_forteen_to_eighteen_week_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_forteen_to_eighteen_week_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_from_middle.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\from_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_yes_no_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\yes_no_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_gra_white.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\gra_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_custom_dialog_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\custom_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_slidedown_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\slidedown_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_slideup_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\slideup_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_drawable_with_border_lines.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\drawable_with_border_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_format_line_style_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable-xxhdpi\\ic_format_line_style_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_round_corner_white.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\round_corner_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_boosterdose_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\boosterdose_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_customer_row.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\customer_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_cluster.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\ic_cluster.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_round_corner_button_blue.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\round_corner_button_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_accuracy.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\ic_accuracy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_folder_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\folder_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_child_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\child_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_punjab.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\punjab.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_slideup_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\slideup_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic__site.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic__site.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_left_in_with_right.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\left_in_with_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_zero_dose_child_list_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\zero_dose_child_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_house_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\house_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_no_btn_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\no_btn_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_child_popup.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\child_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_blue_selector_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\blue_selector_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_pending_sync.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\pending_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_drawer.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\activity_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_hisdu.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\hisdu.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_slidedown_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\slidedown_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_outreach.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\outreach.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_item_row_singleselect.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\item_row_singleselect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_family_popup.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\family_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_fifteen_to_sixteen_months_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_fifteen_to_sixteen_months_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_pending_sync.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\pending_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_master_info_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\master_info_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_hh.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\hh.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_single_modules_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\single_modules_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_menu_row_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\menu_row_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_datepopup.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\datepopup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_menu_popin_anim.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\menu_popin_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_container.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\activity_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_zero_dose_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\zero_dose_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic__site.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic__site.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_add_child_item_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\add_child_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_submit.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\submit.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_gradiant.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\button_gradiant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_sync_record.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\sync_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_scale_up_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\scale_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_error_frame_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_home_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_home_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_checked.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\activity_main_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_blue_selecter_light.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\blue_selecter_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_pending_sync.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\pending_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_pending_sync.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\pending_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_gradiant_red.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\button_gradiant_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_afp.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\afp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_add_child_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_add_child_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_site.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\site.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_row_item_c.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\row_item_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_child_detail_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\child_detail_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_scale_anim.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\scale_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_format_line_style_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable-hdpi\\ic_format_line_style_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_vaccine.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_vaccine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_geo_tag_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\geo_tag_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_vaccine.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_vaccine.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_zero_dose_master_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\zero_dose_master_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_vaccinated.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\vaccinated.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_menu_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\menu_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_up_from_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\up_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_down_from_top.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\down_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_gradiant_green.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\button_gradiant_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_splash_screen.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_folder.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_vaccine.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_vaccine.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_zerodose_add_child_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\zerodose_add_child_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_vaccine.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_vaccine.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_selection_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_selection_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_pending_sync.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\pending_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_progress_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\progress_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic__site.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic__site.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_alert_dialog_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\alert_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_item_progress.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\item_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_toolbar_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\toolbar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_spinner.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_sync__2_.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\ic_sync__2_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_pending_sync.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\pending_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_cluster_btn_n.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\cluster_btn_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_round_corner_bg_purple.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\round_corner_bg_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_checklist_display_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\checklist_display_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_select_day_n.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\btn_select_day_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_dashboard_item_bg_white.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\dashboard_item_bg_white.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_right_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_cluster_btn.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\cluster_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_header.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_gra_gray.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\gra_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_vaccine.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_vaccine.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_weak.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\weak.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_app_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_app_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_toolbar_shadow.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\toolbar_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_loading_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\color_menu_background_color.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\color\\menu_background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_building.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\building.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_ten_to_forteen_week_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_ten_to_forteen_week_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_menu_icon_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\menu_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_cube_outline_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable-mdpi\\ic_cube_outline_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_pending_sync.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\pending_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_cube_outline_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cube_outline_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_left_in_with_scale.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\left_in_with_scale.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_form_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\activity_form_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_sync_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\sync_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_sync_taped.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\sync_taped.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_checklist_vaccination_item_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\checklist_vaccination_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_left_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_round_corner_bg_green.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\round_corner_bg_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic__site.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic__site.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_popup_anim.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\popup_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_right_in_with_left.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\right_in_with_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_cluster.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\activity_cluster.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_add_btn_t.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\add_btn_t.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_diagram.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\diagram.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_scale_up_splash.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\scale_up_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_weak.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\ic_weak.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_shake.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_zero_to_forteen_days_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_zero_to_forteen_days_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_record_display_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\record_display_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_cube_outline_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable-hdpi\\ic_cube_outline_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_appinforow.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\appinforow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_zero_dose_vac_fragment.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\zero_dose_vac_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_feed_back.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_feed_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\xml_file_path.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\xml\\file_path.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic__site.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic__site.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_add_btn_n.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\add_btn_n.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_dash_board.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\activity_dash_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_badge_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\badge_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_feedback.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\ic_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_row_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\row_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_house_popup.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\house_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_round_corner_red_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\round_corner_red_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg_button.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_folder.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_gradient_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_link.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_scale_down_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\scale_down_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_yes_btn_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\yes_btn_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_selector_1.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\button_selector_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\anim_to_middle.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\anim\\to_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_test.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\drawable_progress_dialog_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\drawable\\progress_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_awal.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\activity_awal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_six_to_ten_week_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Downloads\\timimalik-synergy-5cd006bf8e47\\app\\src\\main\\res\\layout\\fragment_six_to_ten_week_layout.xml"
+    }
+]

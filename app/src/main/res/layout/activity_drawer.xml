@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--<ImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:background="@drawable/app_bg"-->
+        <!--android:scaleType="fitXY" />-->
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:orientation="vertical">-->
+
+        <!--<TextView-->
+            <!--style="@style/ExtraLargeTextView"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="0dp"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:layout_weight="0.7"-->
+            <!--android:gravity="center"-->
+            <!--android:shadowColor="@color/color_black"-->
+            <!--android:shadowDx="-2"-->
+            <!--android:shadowDy="-2"-->
+            <!--android:shadowRadius="1"-->
+            <!--android:text="@string/child_and_mother_care"-->
+            <!--android:textColor="@color/color_white"-->
+            <!--android:textSize="@dimen/font_xxxlarge" />-->
+
+        <!--<include-->
+            <!--android:id="@+id/tool_bar"-->
+            <!--layout="@layout/toolbar_layout" />-->
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:id="@+id/drawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:clickable="true"
+        android:layoutDirection="locale">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <include layout="@layout/toolbar_layout" />
+
+                <FrameLayout
+                    android:id="@+id/container"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/color_bg"
+                    android:clickable="true" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+        <fragment
+            android:id="@+id/fragment_drawer"
+            android:name="com.pitb.SESCluster.fragments.navigation.FragmentHome"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:layoutDirection="locale"
+            app:layout="@layout/fragment_navigation_drawer" />
+    </androidx.drawerlayout.widget.DrawerLayout>
+    <!--</LinearLayout>-->
+</RelativeLayout>

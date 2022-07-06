@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_1"
+            android:icon="@drawable/ic_format_line_style_black_48dp"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/nav_2"
+            android:icon="@drawable/ic_info"
+            android:title="Resource Material" />
+        <item
+            android:id="@+id/nav_3"
+            android:icon="@drawable/ic_contact"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/nav_5"
+            android:icon="@drawable/ic_feedback"
+            android:title="Feed Back" />
+
+        <item
+            android:id="@+id/nav_4"
+            android:icon="@drawable/ic_person"
+            android:title="Logout" />
+
+    </group>
+
+</menu>

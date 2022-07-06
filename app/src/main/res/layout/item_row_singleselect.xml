@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/margin_xxsmall"
+    android:background="@drawable/round_corner_bg"
+    android:gravity="center_vertical">
+
+
+
+    <TextView
+        android:id="@+id/tvRowName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_small"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="left"
+        android:padding="@dimen/margin_xsmall"
+        android:text="@string/app_name"
+        android:textColor="@color/color_black"
+        android:textSize="@dimen/font_normal" />
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/ivSelect"
+            android:layout_width="30dp"
+            android:layout_marginRight="@dimen/margin_small"
+            android:layout_height="30dp" />
+    </RelativeLayout>
+
+</LinearLayout>

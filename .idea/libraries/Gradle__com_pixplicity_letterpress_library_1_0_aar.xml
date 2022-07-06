@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pixplicity.letterpress:library:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/146e63cfc9a4eb6fcfd88de9d69df0ba/jetified-library-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/146e63cfc9a4eb6fcfd88de9d69df0ba/jetified-library-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/146e63cfc9a4eb6fcfd88de9d69df0ba/jetified-library-1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7f393780ac3e98ee97098da45c13a7c/jetified-library-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7f393780ac3e98ee97098da45c13a7c/jetified-library-1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7f393780ac3e98ee97098da45c13a7c/jetified-library-1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pixplicity.letterpress/library/1.0/9cfcdde9d24d2f7ce913de30739954856c30cdb4/library-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pixplicity.letterpress/library/1.0/2c6a171432505e9a535f7debaa1cb191b057b92a/library-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

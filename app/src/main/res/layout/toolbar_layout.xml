@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tool_bar"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/actionBarSize"
+    android:background="@drawable/button_gradiant"
+    android:layoutDirection="locale"
+    app:contentInsetEnd="0dp"
+    app:contentInsetLeft="0dp"
+    app:contentInsetRight="0dp"
+    app:contentInsetStart="0dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageButton
+
+            android:id="@+id/action_bar_menu_button"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/margin_normal"
+            android:background="@drawable/menu_icon_selector"
+            android:layoutDirection="locale"
+            android:visibility="gone" />
+
+        <!-- <ImageButton
+             android:id="@+id/ivUpdate"
+             android:layout_width="0dp"
+             android:layout_height="wrap_content"
+             android:layout_weight="1"
+             android:background="@null"
+             android:layoutDirection="locale"
+             android:src="@drawable/sync_selector" />-->
+        <RelativeLayout
+            android:id="@+id/rlTVCount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/ivUpdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:scaleType="fitXY"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/sync_selector" />
+
+            <TextView
+                android:id="@+id/tvCount"
+                style="@style/NormalTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/round_corner_red_bg"
+                android:padding="@dimen/margin_xsmall"
+                android:text=" "
+                android:textColor="@color/color_black" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tvPageTitle"
+            style="@style/LargeTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="2"
+            android:background="@null"
+            android:drawablePadding="@dimen/margin_small"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:maxLines="2"
+            android:text=""
+            android:textColor="@color/color_white"
+            android:visibility="visible" />
+
+
+        <ImageButton
+            android:id="@+id/ivSubmit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@null"
+            android:contentDescription="@string/app_name"
+
+            />
+
+
+    </LinearLayout>
+</androidx.appcompat.widget.Toolbar>

@@ -1,0 +1,258 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hisdu.ses"
+4    android:versionCode="6"
+5    android:versionName="1.0.6" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:7:5-81
+12-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:8:5-79
+13-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:9:5-65
+14-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:9:22-62
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:10:5-75
+15-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:10:22-72
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:11:5-81
+16-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:12:5-80
+17-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:12:22-77
+18
+19    <queries>
+19-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:9:5-19:15
+20
+21        <!-- Query Camera Packages -->
+22        <intent>
+22-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:12:9-14:18
+23            <action android:name="android.media.action.IMAGE_CAPTURE" />
+23-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:13:13-73
+23-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:13:21-70
+24        </intent>
+25        <!-- Query Open Document -->
+26        <intent>
+26-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:12:9-14:18
+27            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+28        </intent>
+29    </queries>
+30
+31    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+31-->[com.novoda:merlin:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93d2b4e234fdf2ddf267f1b4b894a387\jetified-merlin-1.2.0\AndroidManifest.xml:8:5-79
+31-->[com.novoda:merlin:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93d2b4e234fdf2ddf267f1b4b894a387\jetified-merlin-1.2.0\AndroidManifest.xml:8:22-76
+32
+33    <application
+33-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:14:5-72:19
+34        android:name="com.hisdu.ses.MyApplication"
+34-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:15:9-38
+35        android:allowBackup="true"
+35-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:16:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.3.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0fcde0508ec0e6903676c41a5eb6a8dd\core-1.3.2\AndroidManifest.xml:24:18-86
+37        android:debuggable="true"
+38        android:icon="@mipmap/ic_launcher_round"
+38-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:17:9-49
+39        android:label="@string/app_name"
+39-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:18:9-41
+40        android:roundIcon="@mipmap/ic_launcher_round"
+40-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:19:9-54
+41        android:supportsRtl="true"
+41-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:20:9-35
+42        android:testOnly="true"
+43        android:theme="@style/MyTheme_NoTitle"
+43-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:21:9-47
+44        android:usesCleartextTraffic="true" >
+44-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:22:9-44
+45        <activity android:name="com.hisdu.ses.DashBoardActivity" />
+45-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:23:9-55
+45-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:23:19-52
+46        <activity
+46-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:24:9-27:51
+47            android:name="com.zfdang.multiple_images_selector.ImagesSelectorActivity"
+47-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:25:13-86
+48            android:configChanges="orientation|screenSize"
+48-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:26:13-59
+49            android:hardwareAccelerated="false" />
+49-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:27:13-48
+50
+51        <meta-data
+51-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:29:9-31:38
+52            android:name="AA_DB_NAME"
+52-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:30:13-38
+53            android:value="ses.db" />
+53-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:31:13-35
+54        <meta-data
+54-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:32:9-34:33
+55            android:name="AA_DB_VERSION"
+55-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:33:13-41
+56            android:value="1" />
+56-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:34:13-30
+57
+58        <activity
+58-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:36:9-45:20
+59            android:name="com.hisdu.ses.SplashActivity"
+59-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:37:13-43
+60            android:screenOrientation="portrait" >
+60-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:38:13-49
+61            <intent-filter>
+61-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:39:13-44:29
+62                <action android:name="android.intent.action.VIEW" />
+62-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:40:17-69
+62-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:40:25-66
+63                <action android:name="android.intent.action.MAIN" />
+63-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:41:17-69
+63-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:41:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:43:17-77
+65-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:43:27-74
+66            </intent-filter>
+67        </activity>
+68        <activity
+68-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:46:9-48:52
+69            android:name="com.hisdu.ses.MainActivity"
+69-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:47:13-41
+70            android:screenOrientation="portrait" />
+70-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:48:13-49
+71        <activity
+71-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:49:9-51:52
+72            android:name="com.hisdu.ses.LoginActivity"
+72-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:50:13-42
+73            android:screenOrientation="portrait" />
+73-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:51:13-49
+74
+75        <service android:name="com.hisdu.ses.LocationService" />
+75-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:53:9-52
+75-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:53:18-49
+76        <service
+76-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:54:9-57:72
+77            android:name="com.hisdu.ses.MyService"
+77-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:55:13-38
+78            android:exported="true"
+78-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:56:13-36
+79            android:permission="android.permission.BIND_JOB_SERVICE" />
+79-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:57:13-69
+80
+81        <provider
+81-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:59:9-67:20
+82            android:name="androidx.core.content.FileProvider"
+82-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:60:13-62
+83            android:authorities="com.hisdu.ses.fileprovider"
+83-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:61:13-61
+84            android:exported="false"
+84-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:62:13-37
+85            android:grantUriPermissions="true" >
+85-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:63:13-47
+86            <meta-data
+86-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:64:13-66:53
+87                android:name="android.support.FILE_PROVIDER_PATHS"
+87-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:65:17-67
+88                android:resource="@xml/file_path" />
+88-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:66:17-50
+89        </provider>
+90        <provider
+90-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:68:9-71:40
+91            android:name="com.hisdu.ses.Database.DatabaseContentProvider"
+91-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:69:13-61
+92            android:authorities="com.hisdu.ses"
+92-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:70:13-48
+93            android:exported="false" />
+93-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:71:13-37
+94
+95        <activity
+95-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7fd8159c8cef678d76ab7bf8ad76ef5\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+96            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+96-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7fd8159c8cef678d76ab7bf8ad76ef5\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+97            android:exported="false"
+97-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7fd8159c8cef678d76ab7bf8ad76ef5\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+98            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+98-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f7fd8159c8cef678d76ab7bf8ad76ef5\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+99
+100        <meta-data
+100-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5b439aedb305ed67a1e387c22932a5c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+101            android:name="com.google.android.gms.version"
+101-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5b439aedb305ed67a1e387c22932a5c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+102            android:value="@integer/google_play_services_version" />
+102-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5b439aedb305ed67a1e387c22932a5c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+103
+104        <activity
+104-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:22:9-25:68
+105            android:name="com.github.dhaval2404.imagepicker.ImagePickerActivity"
+105-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:23:13-81
+106            android:screenOrientation="unspecified"
+106-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:24:13-52
+107            android:theme="@style/Theme.Transparent.ImagePicker" />
+107-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:25:13-65
+108        <activity
+108-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:26:9-29:72
+109            android:name="com.yalantis.ucrop.UCropActivity"
+109-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:27:13-60
+110            android:screenOrientation="portrait"
+110-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:28:13-49
+111            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+111-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:29:13-69
+112
+113        <provider
+113-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:31:9-39:20
+114            android:name="com.github.dhaval2404.imagepicker.ImagePickerFileProvider"
+114-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:32:13-85
+115            android:authorities="com.hisdu.ses.imagepicker.provider"
+115-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:33:13-72
+116            android:exported="false"
+116-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:34:13-37
+117            android:grantUriPermissions="true" >
+117-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9adf8a72a8fa1eb9071e3c61c9681e00\jetified-imagepicker-2.1\AndroidManifest.xml:35:13-47
+118            <meta-data
+118-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:64:13-66:53
+119                android:name="android.support.FILE_PROVIDER_PATHS"
+119-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:65:17-67
+120                android:resource="@xml/image_picker_provider_paths" />
+120-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:66:17-50
+121        </provider>
+122
+123        <service
+123-->[com.novoda:merlin:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93d2b4e234fdf2ddf267f1b4b894a387\jetified-merlin-1.2.0\AndroidManifest.xml:11:9-13:40
+124            android:name="com.novoda.merlin.MerlinService"
+124-->[com.novoda:merlin:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93d2b4e234fdf2ddf267f1b4b894a387\jetified-merlin-1.2.0\AndroidManifest.xml:12:13-59
+125            android:exported="false" />
+125-->[com.novoda:merlin:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93d2b4e234fdf2ddf267f1b4b894a387\jetified-merlin-1.2.0\AndroidManifest.xml:13:13-37
+126
+127        <activity
+127-->[com.nabinbhandari.android:permissions:3.8] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2796b95d6423f60de4ecfaaa70943448\jetified-permissions-3.8\AndroidManifest.xml:12:9-14:67
+128            android:name="com.nabinbhandari.android.permissions.PermissionsActivity"
+128-->[com.nabinbhandari.android:permissions:3.8] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2796b95d6423f60de4ecfaaa70943448\jetified-permissions-3.8\AndroidManifest.xml:13:13-85
+129            android:theme="@style/Permissions.TransparentTheme" />
+129-->[com.nabinbhandari.android:permissions:3.8] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2796b95d6423f60de4ecfaaa70943448\jetified-permissions-3.8\AndroidManifest.xml:14:13-64
+130
+131        <provider
+131-->[com.iceteck.silicompressorr:silicompressor:2.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a75fe52a62e3ff12a19856a2b168dc81\jetified-silicompressor-2.2.2\AndroidManifest.xml:18:9-26:20
+132            android:name="com.iceteck.silicompressorr.provider.GenericFileProvider"
+132-->[com.iceteck.silicompressorr:silicompressor:2.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a75fe52a62e3ff12a19856a2b168dc81\jetified-silicompressor-2.2.2\AndroidManifest.xml:19:13-84
+133            android:authorities="com.hisdu.ses.iceteck.silicompressor.provider"
+133-->[com.iceteck.silicompressorr:silicompressor:2.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a75fe52a62e3ff12a19856a2b168dc81\jetified-silicompressor-2.2.2\AndroidManifest.xml:20:13-83
+134            android:exported="false"
+134-->[com.iceteck.silicompressorr:silicompressor:2.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a75fe52a62e3ff12a19856a2b168dc81\jetified-silicompressor-2.2.2\AndroidManifest.xml:21:13-37
+135            android:grantUriPermissions="true" >
+135-->[com.iceteck.silicompressorr:silicompressor:2.2.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a75fe52a62e3ff12a19856a2b168dc81\jetified-silicompressor-2.2.2\AndroidManifest.xml:22:13-47
+136            <meta-data
+136-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:64:13-66:53
+137                android:name="android.support.FILE_PROVIDER_PATHS"
+137-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:65:17-67
+138                android:resource="@xml/provider_paths" />
+138-->C:\Users\Administrator\Downloads\timimalik-synergy-5cd006bf8e47\app\src\main\AndroidManifest.xml:66:17-50
+139        </provider>
+140    </application>
+141
+142</manifest>

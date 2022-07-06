@@ -1,0 +1,88 @@
+apply plugin: 'com.android.library'
+
+version = "1.0.4"
+group = "com.sanfriend"
+
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "21.1.1"
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 27
+        versionCode 1
+        versionName version
+    }
+    buildTypes {
+    }
+}
+
+dependencies {
+    implemantation fileTree(dir: 'libs', include: ['*.jar'])
+    implemantation 'com.android.support:appcompat-v7:27.1.1'
+    implemantation 'com.android.support:support-v4:27.1.1'
+    implemantation 'com.android.support:support-v13:27.1.1'
+}
+
+Properties properties = new Properties()
+properties.load(project.rootProject.file('local.properties').newDataInputStream())
+
+
+
+install {
+    repositories.mavenInstaller {
+        pom {
+            project {
+                packaging 'aar'
+                name 'Android library project for multiple image selection.'
+                url siteUrl
+                licenses {
+                    license {
+                        name 'The Apache Software License, Version 2.0'
+                        url 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+                    }
+                }
+                developers {
+                    developer {
+                        id 'fotock'
+                        name 'Shelley Shyan'
+                        email properties.getProperty("bintray.apikey")
+                    }
+                }
+
+                scm {
+                    connection gitUrl
+                    developerConnection gitUrl
+                    url siteUrl
+
+                }
+            }
+        }
+    }
+}
+
+task sourcesJar(type: Jar) {
+    from android.sourceSets.main.java.srcDirs
+    classifier = 'sources'
+}
+
+// do not build javadoc
+//task javadoc(type: Javadoc) {
+//    source = android.sourceSets.main.java.srcDirs
+//    classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
+//}
+//
+//task javadocJar(type: Jar, dependsOn: javadoc) {
+//    classifier = 'javadoc'
+//    from javadoc.destinationDir
+//}
+
+artifacts {
+    //archives javadocJar
+    archives sourcesJar
+}
+
+task findConventions << {
+    println project.getConvention()
+}

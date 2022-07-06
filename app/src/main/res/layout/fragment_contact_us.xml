@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.contactUsFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="150dp"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/contact_form_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp"
+            android:text="Contact Info"
+            android:textColor="#81D4FA"
+            android:textSize="40sp"
+            android:typeface="serif" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="0.5dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:hint="PrimaryEmail :"
+                android:textColor="@color/black"
+
+                />
+
+            <TextView
+                android:id="@+id/primaryemail"
+                android:layout_width="0.5dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:hint="PrimaryEmail" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:hint="SecondaryEmail :"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/secondaryemail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:hint="SecondaryEmail" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:hint="PrimaryContactNo :"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/primarycontact"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:hint="PrimaryContactNo" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:hint="SecondaryContactNo :"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/secodarycontact"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:hint="SecondaryContactNo" />
+
+        </LinearLayout>
+
+
+        <!--        <TextView-->
+        <!--            android:layout_width="fill_parent"-->
+        <!--            android:layout_height="150dp"-->
+        <!--            android:layout_marginBottom="10dp"-->
+        <!--            android:layout_marginTop="10dp"-->
+        <!--            android:backgroundTint="@color/colorPrimaryDark"-->
+        <!--            android:gravity="top"-->
+        <!--            android:hint="SecondaryContactNo"-->
+        <!--            android:fitsSystemWindows="true"-->
+        <!--            android:breakStrategy="balanced"-->
+        <!--            android:inputType="textMultiLine"-->
+        <!--            android:singleLine="false"-->
+        <!--            android:padding="5dp" />-->
+
+    </LinearLayout>
+
+</FrameLayout>

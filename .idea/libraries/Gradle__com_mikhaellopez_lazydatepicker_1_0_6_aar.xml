@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikhaellopez:lazydatepicker:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3178aee4b4662bae63be9bd18744ecd/jetified-lazydatepicker-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3178aee4b4662bae63be9bd18744ecd/jetified-lazydatepicker-1.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3178aee4b4662bae63be9bd18744ecd/jetified-lazydatepicker-1.0.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikhaellopez/lazydatepicker/1.0.6/1184db5706a83856169f851acaeea353cb339c6c/lazydatepicker-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
